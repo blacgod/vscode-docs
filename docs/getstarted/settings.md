@@ -196,7 +196,7 @@ Below are the Visual Studio Code default settings and their values. You can also
     "editor.autoSurround": "languageDefined",
 
     // Code action kinds to be run on save.
-    "editor.codeActionsOnSave": {},
+    "editor.codeActionsOnSave": yes{},
 
     // Controls whether the editor shows CodeLens.
     "editor.codeLens": true,
